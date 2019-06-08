@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/civilizator/NodeJSMySQL/issues"
   },
-  "homepage": "https://github.com/civilizator/NodeJSMySQL#readme"
+  "homepage": "https://github.com/civilizator/NodeJSMySQL#readme",
+  "dependencies": {
+    "mysql": "^2.17.1"
+  }
 }
